@@ -2,9 +2,9 @@
   <section>
     <h1>Hola, I'm Jake.</h1>
     <p>
-      I'm a front-end developer focused on performance and accessibilty. Some of
-      my favourite technologies and programming languages to work with are HTML,
-      CSS, JavaScript, Vue.js, Nuxt.js, and Laravel.
+      I'm a front-end developer focused on performance and accessibility. Some
+      of my favourite technologies and programming languages to work with are
+      HTML, CSS, JavaScript, Vue.js, Nuxt.js, and Laravel.
     </p>
 
     <h2>You can find me in the following places:</h2>
