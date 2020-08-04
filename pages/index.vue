@@ -114,6 +114,7 @@ select {
 :root {
   --Background_Colour: #fff;
   --Text_Colour: #000;
+  --Purple: #735cdd;
 }
 
 @media (prefers-color-scheme: dark) {
