@@ -29,7 +29,10 @@
     "sass-loader": "^9.0.2"
   },
   "headMeta": {
-    "title": "Jake Neal",
-    "description": "Front-End Developer"
+    "title": "Jake Neal | Front-End Developer",
+    "description": "I'm a front-end developer focused on performance and accessibility.",
+    "siteUrl": "https://jakeneal.co.uk",
+    "imageUrl": "https://jakeneal.co.uk/me.jpg",
+    "twitter": "@jakezneal"
   }
 }
