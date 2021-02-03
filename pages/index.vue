@@ -16,7 +16,7 @@
       </li>
       <li>
         <a
-          href="https://instagram.com/jakezneal"
+          href="https://instagram.com/jkznl"
           target="_blank"
           rel="noopener"
         >
